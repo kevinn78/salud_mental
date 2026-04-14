@@ -31,3 +31,11 @@ Hemos preferido utilizar **Google Colab** por las siguientes razones:
 3. **Ingeniería de Características:** Creación de alertas de salud mental.
 4. **Pipeline:** Transformación industrial con `StandardScaler` y `OneHotEncoder`.
 5. **Visualización:** Análisis exploratorio (EDA).
+
+---
+
+## Cómo ejecutar el proyecto
+1. Abrir el archivo `Proyecto.ipynb` en Google Colab.
+2. Ejecutar todas las celdas en orden (`Ctrl + F9`).
+3. El dataset se cargará automáticamente desde este repositorio.
+4. El archivo final procesado se generará en la carpeta `data/`.
